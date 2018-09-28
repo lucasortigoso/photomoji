@@ -1,0 +1,14 @@
+{
+  "name": "photomoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Lucas Ortigoso",
+  "license": "ISC",
+  "dependencies": {
+    "palette": "^0.1.1"
+  }
+}
