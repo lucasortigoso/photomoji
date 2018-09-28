@@ -7,7 +7,7 @@ var palette = require('./')
   , canvas = new Canvas
   , ctx = canvas.getContext('2d')
   , path = process.argv[2]
-  , n = ~~process.argv[3] || 3
+  , n = ~~process.argv[3] || 20
   , out = '/tmp/out.png';
 
 if (!path) {
